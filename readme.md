@@ -2,7 +2,7 @@
 
 script to config lockscreen w/ blurred screenshot
 
-## Requirements:
+## Requirements
 
 * i3lock-color
 * imagemagick
