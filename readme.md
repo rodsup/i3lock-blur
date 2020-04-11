@@ -1,6 +1,6 @@
 # i3lock-blur
 
-i3lock script to config lockscreen w/ blurred screenshot
+script to config lockscreen w/ blurred screenshot
 
 ## Requirements:
 
