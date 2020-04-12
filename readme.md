@@ -7,7 +7,3 @@ script to config lockscreen w/ blurred screenshot
 * i3lock-color
 * imagemagick
 * scrot
-
-## Getting Started
-
-lock.sh runs i3lock-config.sh
