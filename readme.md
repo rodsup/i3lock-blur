@@ -4,6 +4,6 @@ script to config lockscreen w/ blurred screenshot
 
 ## Requirements
 
-* i3lock-color
+* i3lock
 * imagemagick
 * scrot
